@@ -1,2 +1,2 @@
 # ScorpioRider.github.io
-ScorpioRider's blog
+ScorpioRider's page
